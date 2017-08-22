@@ -1,0 +1,1 @@
+Module reads sensors as configured in modules TCL script.
