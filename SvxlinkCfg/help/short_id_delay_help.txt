@@ -1,0 +1,7 @@
+The time in minutes between short I D's. The short I D is used to announce that the station is on the air. 
+
+Typically just the call sign is sent. For a repeater, a good value is 10 and 60 for simplex. 
+
+The LONG I D INTERVAL must be an even multiple of the SHORT I D INTERVAL, so if LONG ID INTERVAL is 60, then the legal values for SHORT ID INTERVAL are: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. 
+
+If set to 0, short I D's are disabled.

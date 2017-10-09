@@ -1,0 +1,3 @@
+The squelch start delay is of most use when using VOX squelch. If the transceiver makes a noise when the transmitter is turned off, it may trigger the VOX causing a loop of squelch open & close and transmitter on & off. 
+
+Specify the number of milliseconds the squelch should be deaf after the transmision has ended
