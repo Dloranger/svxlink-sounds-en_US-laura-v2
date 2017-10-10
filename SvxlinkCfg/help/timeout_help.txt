@@ -1,0 +1,1 @@
+Idle time before Q S O recorder will revert to the configured default state

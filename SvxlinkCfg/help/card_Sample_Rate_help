@@ -1,0 +1,5 @@
+This variable sets the sample rate for audio input & output. Svx Link always uses a sample rate of 8000 internally. There are some benefits from using a higher sample rate. 
+
+On some sound cards the filters at 8000 are poor and amplitude response is not uniform which can cause issues in the software DTMF decoder.
+
+Supported sampling rates are: 8000 16000 and 48000

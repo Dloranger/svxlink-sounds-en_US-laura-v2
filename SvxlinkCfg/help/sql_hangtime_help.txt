@@ -1,0 +1,3 @@
+How long, in milliseconds, the squelch will stay open after the detector has indicated that it is closed. This configuration variable will affect all squelch detector types.
+
+Enter channel number and setting upto 3 digits. End entry with pound

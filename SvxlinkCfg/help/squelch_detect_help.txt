@@ -1,0 +1,9 @@
+Enter type selection.
+
+Type options:
+0 VOX,
+1 CTCSS,
+2 SERIAL,
+3 EVENT DEVICE,
+4 SIGNAL LEVEL,
+5 G P I O

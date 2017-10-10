@@ -1,0 +1,3 @@
+Determines if OPEN ON SQUELCH and OPEN ON CTCSS should activate the repeater when the squelch opens or closes. If set to OPEN, the repeater will activate and start to retransmit audio. No I D will be sent. If set to CLOSE, repeater will not activate until the squelch closes. An I D will be sent.
+
+Use 0 for close and 1 for open, end with pound.

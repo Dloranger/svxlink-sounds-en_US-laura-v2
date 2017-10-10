@@ -1,0 +1,8 @@
+Transmit CTCSS mode
+
+Enter transmit CTCSS mode,
+1 Squelch Open
+2 Logic
+3 Module
+4 Announcement
+5 Always

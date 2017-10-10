@@ -1,0 +1,1 @@
+The number of minutes between each long I D. The long I D transmits more information about the station status  The time of day is transmitted  A value of 60 minutes is suggested. Set to 0 to disable

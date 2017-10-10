@@ -1,0 +1,5 @@
+sets a D T M F command that is used to switch the node between enabled and disabled.
+
+When disabled, the transmitter will not be turned on by any event. If a module is active when the node is disabled, it will be deactivated and no module activation will be allowed while disabled. Only the enabling command will be accepted while disabled.
+
+If the D T M F command is set to 1234 then use 1 2 3 4 followed by a 1 for enabling the node and 1 2 3 4 followed by a 0 for disabling.

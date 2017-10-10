@@ -1,0 +1,1 @@
+The number of milliseconds after the squelch has been closed before a roger beep is played. The beep can be disabled by manually specifying a value of -1 in the config file.
