@@ -1,0 +1,1 @@
+The number of seconds the repeater should be idle before turning the transmitter off.
